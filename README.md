@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kool-Cool
-- 👀 I’m interested in Embedded-systems 
-- 🌱 I’m currently learning MATLAB 
+- 👀 I’m interested in Data Science Embedded-systems 
+- 🌱 I’m currently learning Python and MATLAB 
 - 💞️ I’m looking to collaborate on Embedded-systems projects
 - 📫 How to reach me omgrabpoint@gmail.com
 
