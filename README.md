@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python ,Django , Web-Scraping and MATLAB 
 - 💞️ I’m looking to collaborate on Embedded-systems projects
 - 📫 How to reach me omgrabpoint@gmail.com
-![](http://i.imgur.com/60bts.gif)
+
+<img src="https://cdn-images-1.medium.com/max/1200/0*7ESJ2oHrF657f3Ax.jpeg" width="400" height="320" />
+
 
 <!---
 Kool-Cool/Kool-Cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
