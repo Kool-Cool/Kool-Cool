@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Embedded-systems projects
 - 📫 How to reach me omgrabpoint@gmail.com
 
-<img src="https://cdn-images-1.medium.com/max/1200/0*7ESJ2oHrF657f3Ax.jpeg" width="400" height="320" />
+<img src="https://github.com/Kool-Cool/dump-/blob/main/e2085ca6-c0a3-49f4-91ef-24759fec0ba4.jpg"  />
 
 
 <!---
