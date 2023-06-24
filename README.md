@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kool-Cool
 - 👀 I’m interested in Data Science , AI-ML 
-- 🌱 I’m currently practicing Python ,Django ,SQL , 
+- 🌱 I’m currently practicing Python ,Django ,SQL ,Flask 
 - 💞️ I’m looking to collaborate on python , AI-ML , Data Analytics projects
 - 📫 How to reach me omgrabpoint@gmail.com
 
