@@ -2,15 +2,17 @@
 - 👀 I’m interested in Data Science , AI-ML 
 - 🌱 I’m currently practicing Python ,Flask ,MySQL ,Django 
 - 💞️ I’m looking to collaborate on python , AI-ML , Data Analytics projects
-- 📫 How to reach me omgrabpoint@gmail.com
+- 📫 How to reach me omkarjadhav0507@gmail.com 
 
 <!---
-[![Kool-Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Kool-Cool/github-readme-stats)
+[![Kool-Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia)]
 
 <img src="https://github.com/Kool-Cool/dump-/blob/main/e2085ca6-c0a3-49f4-91ef-24759fec0ba4.jpg" width="500" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia" />
 --->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia" />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 
 
