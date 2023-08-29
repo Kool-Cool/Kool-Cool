@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on python , AI-ML , Data Analytics projects
 - 📫 How to reach me omkarjadhav0507@gmail.com 
 
-<!---
-[![Kool-Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia)]
-
-<img src="https://github.com/Kool-Cool/dump-/blob/main/e2085ca6-c0a3-49f4-91ef-24759fec0ba4.jpg" width="500" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kool-Cool&hide=prs&count_private=true&show_icons=true&theme=algolia" />
---->
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true)]()
+<!--
+| ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true) | ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kool-Cool&langs_count=5&theme=tokyonight) |
+| --- | --- |
+| [View My GitHub Stats](https://github.com/Kool-Cool) | [View My GitHub Language Stats](https://github.com/Kool-Cool) |
+-->
+| <img src="https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true" width="400" height="200" alt="My GitHub Stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kool-Cool&langs_count=5&theme=tokyonight" width="400" height="200" alt="My GitHub Language Stats"> |
+| --- | --- |
+| [View My GitHub Stats](https://github.com/Kool-Cool) | [View My GitHub Language Stats](https://github.com/Kool-Cool) |
 
 
 
