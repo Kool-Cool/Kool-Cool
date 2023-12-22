@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science , AI-ML 
 - 🌱 I’m currently practicing Python ,Flask ,MySQL ,Django 
 - 💞️ I’m looking to collaborate on python , AI-ML , Data Analytics projects
-- 📫 How to reach me omkarjadhav0507@gmail.com | [LinkedIn ]("https://www.linkedin.com/in/omkar-jadhav-399158227/")
+- 📫 How to reach me omkarjadhav0507@gmail.com | [LinkedIn ](https://www.linkedin.com/in/omkar-jadhav-399158227/)
 
 <!--
 | ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true) | ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kool-Cool&langs_count=5&theme=tokyonight) |
