@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I’m @Kool-Cool
 - 👀 I’m interested in Data Science , AI-ML 
 - 🌱 I’m currently practicing Python ,Flask ,MySQL ,Django 
@@ -9,11 +11,36 @@
 | --- | --- |
 | [View My GitHub Stats](https://github.com/Kool-Cool) | [View My GitHub Language Stats](https://github.com/Kool-Cool) |
 -->
+
+<!--
 | <img src="https://github-readme-stats.vercel.app/api/?username=Kool-Cool&count_private=true&theme=tokyonight&showicons=true" width="400" height="200" alt="My GitHub Stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kool-Cool&langs_count=5&theme=tokyonight" width="400" height="200" alt="My GitHub Language Stats"> |
 | --- | --- |
 | [View My GitHub Stats](https://github.com/Kool-Cool) | [View My GitHub Language Stats](https://github.com/Kool-Cool) |
 
+-->
 
+
+
+
+---
+
+| Stats | Top Languages |
+|-------|--------|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Kool-Cool&theme=dark&hide_border=false)|<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kool-Cool&layout=compact&count_private=true&theme=solarized-light&hide_border=false&bg_color=ffffff&title_color=000000&text_color=475569" alt="Top Languages" />  |
+
+
+
+
+---
+## 🏆 GitHub Trophies
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Kool-Cool) -->
+
+
+
+![](https://github-profile-trophy.vercel.app/?username=Kool-Cool&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 
 ## Skills and Tools:
